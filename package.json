@@ -1,0 +1,19 @@
+{
+  "name": "edwards",
+  "version": "1.0.0",
+  "description": "a packcage to deploy the program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "gautam"
+  ],
+  "author": "prajwal gautam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
